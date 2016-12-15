@@ -22,7 +22,7 @@ import data.yunsom.com.util.StringFilterUtil;
 /**
  * 获取提示数据
  * 
- * @author yangxuchuan 2016/7/26
+ * @author yangshix 2016/7/26
  * */
 public class SuggestPinyinDataUtil {
 	private static Logger logger = LoggerFactory
