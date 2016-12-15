@@ -1,0 +1,49 @@
+2016-12-01 08:16:37,438 - [Godfrey Calthrop] failed to get local cluster state for {node-1}{Tb3lvTB3TnCM6Hk3hyFkKQ}{192.168.1.227}{192.168.1.227:9300}{master=true}, disconnecting...
+ ReceiveTimeoutTransportException[[node-1][192.168.1.227:9300][cluster:monitor/state] request_id [33173] timed out after [6607ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:645)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-12-01 08:16:37,444 - [Godfrey Calthrop] failed to get local cluster state for {#transport#-1}{192.168.1.227}{192.168.1.227:9300}, disconnecting...
+ ReceiveTimeoutTransportException[[][192.168.1.227:9300][cluster:monitor/state] request_id [33175] timed out after [6607ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:645)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-12-01 08:16:37,447 - [Godfrey Calthrop] failed to get local cluster state for {node-2}{VX3YUL6_Rjq-TnY6rqUrfQ}{192.168.1.228}{192.168.1.228:9300}{master=false}, disconnecting...
+ ReceiveTimeoutTransportException[[node-2][192.168.1.228:9300][cluster:monitor/state] request_id [33174] timed out after [6592ms]]
+	at org.elasticsearch.transport.TransportService$TimeoutHandler.run(TransportService.java:645)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-12-01 09:24:54,225 - [Peter Noble] modules [], plugins [], sites []
+ 2016-12-01 10:13:59,436 - [Ebenezer Laughton] modules [], plugins [], sites []
+ 2016-12-01 10:15:41,756 - [Dominus] modules [], plugins [], sites []
+ 2016-12-01 10:56:36,168 - [Blue Diamond] modules [], plugins [], sites []
+ 2016-12-01 10:57:37,196 - [Ghost] modules [], plugins [], sites []
+ 2016-12-01 11:02:32,404 - [Tinkerer] modules [], plugins [], sites []
+ 2016-12-01 11:06:12,159 - [Stiletto] modules [], plugins [], sites []
+ 2016-12-01 11:07:40,054 - [Whiplash] modules [], plugins [], sites []
+ 2016-12-01 11:08:17,175 - [Golden Oldie] modules [], plugins [], sites []
+ 2016-12-01 11:09:30,213 - [Typhon] modules [], plugins [], sites []
+ 2016-12-01 11:10:38,949 - [Adam Warlock] modules [], plugins [], sites []
+ 2016-12-01 11:11:18,426 - [Evangeline Whedon] modules [], plugins [], sites []
+ 2016-12-01 11:13:01,776 - [Mirage II] modules [], plugins [], sites []
+ 2016-12-01 11:14:40,271 - [Plazm] modules [], plugins [], sites []
+ 2016-12-01 11:33:49,172 - [Orb] modules [], plugins [], sites []
+ 2016-12-01 11:34:18,267 - [Victor von Doom] modules [], plugins [], sites []
+ 2016-12-01 11:44:06,527 - [Chi Demon] modules [], plugins [], sites []
+ 2016-12-01 11:49:18,335 - [Speedo] modules [], plugins [], sites []
+ 2016-12-01 11:50:01,799 - [Cassiopea] modules [], plugins [], sites []
+ 2016-12-01 13:45:37,149 - [Magus] modules [], plugins [], sites []
+ 2016-12-01 13:46:18,886 - [Star Stalker] modules [], plugins [], sites []
+ 2016-12-01 14:06:45,445 - [Huntara] modules [], plugins [], sites []
+ 2016-12-01 15:21:22,742 - [Mantis] modules [], plugins [], sites []
+ 2016-12-01 15:22:45,173 - [Aireo] modules [], plugins [], sites []
+ 2016-12-01 15:23:43,492 - [Mad Jim Jaspers] modules [], plugins [], sites []
+ 2016-12-01 15:24:29,906 - [Carnivore] modules [], plugins [], sites []
+ 2016-12-01 15:24:56,158 - [Scarecrow II] modules [], plugins [], sites []
+ 2016-12-01 16:05:32,108 - [Vanisher] modules [], plugins [], sites []
+ 2016-12-01 16:58:07,056 - [Douglas Birely] modules [], plugins [], sites []
+ 2016-12-01 16:59:09,788 - [Cardinal] modules [], plugins [], sites []
+ 
