@@ -82,10 +82,10 @@ public class ClientSample {
 			SynchRedis.mysqlToRedis();
 			break;
 		case 2:
-			//SynchPinyinData.pushTagData();
-			//SynchPinyinData.pushCategoryData();
-			//SynchPinyinData.pushBrandData();
-	        //SynchPinyinData.pushEnterpriseData();
+			SynchPinyinData.pushTagData();
+			SynchPinyinData.pushCategoryData();
+			SynchPinyinData.pushBrandData();
+	                SynchPinyinData.pushEnterpriseData();
 			SynchroMysqlTagData.synchroData(commodity_id);
 			
 			break;
