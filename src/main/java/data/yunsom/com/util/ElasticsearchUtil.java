@@ -17,7 +17,7 @@ import org.slf4j.LoggerFactory;
 /**
  * elastic search 集群连接
  *
- * 2016/7/27
+ * 
  */
 public class ElasticsearchUtil {
 	private static final Logger logger = LoggerFactory
