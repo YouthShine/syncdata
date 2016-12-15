@@ -16,7 +16,7 @@ import org.slf4j.LoggerFactory;
 /**
  * mysql connection
  * 
- * @author yangxuchuan
+ * 
  * 
  */
 public class ConnectionPool {
