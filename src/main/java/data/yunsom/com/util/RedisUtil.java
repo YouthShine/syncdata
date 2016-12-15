@@ -15,7 +15,7 @@ import redis.clients.jedis.JedisPoolConfig;
 public class RedisUtil {  
     private static Logger logger = LoggerFactory.getLogger(RedisUtil.class);
     private static JedisPool pool = null;  
-    String ip = "192.168.1.100";  
+    String ip = "服务器地址";  
     int port = 6379;  
   
     private static RedisUtil ru = new RedisUtil();  
