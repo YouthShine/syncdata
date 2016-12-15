@@ -16,14 +16,14 @@ import org.slf4j.LoggerFactory;
 
 /**
  * elastic search 集群连接
- * @author yangxuchuan
+ *
  * 2016/7/27
  */
 public class ElasticsearchUtil {
 	private static final Logger logger = LoggerFactory
 			.getLogger(ElasticsearchUtil.class);
 	private  static final String CLUSTER_NAME = "yunsom"; 
-	private static final String IP = "192.168.1.227";	
+	private static final String IP = "服务器地址";	
 	private static final int PORT = 9300; 
 	private static Settings settings = Settings.settingsBuilder()
 			.put("cluster.name", CLUSTER_NAME)
