@@ -61,7 +61,7 @@ import data.yunsom.com.util.SuggestPinyinDataUtil;
 /**
  * 数据同步 业务逻辑处理
  * 
- * @author yangxuchuan 2016/8/30
+ * 
  */
 public class ClientSample {
 	public static TransportClient client = ElasticsearchUtil
