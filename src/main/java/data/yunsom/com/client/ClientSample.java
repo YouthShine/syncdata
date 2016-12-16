@@ -141,7 +141,7 @@ public class ClientSample {
 	private static void constantlySync() throws InterruptedException,
 			IOException, ExecutionException, SQLException {
 		CanalConnector connector = CanalConnectors.newSingleConnector(
-				new InetSocketAddress("192.168.1.228", 11111), "example", "",
+				new InetSocketAddress("服务器", 11111), "example", "",
 				"");
 		int batchSize = 100;
 		try {
